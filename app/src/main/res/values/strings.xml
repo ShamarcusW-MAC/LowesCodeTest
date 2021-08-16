@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LowesCodeTest</string>
+    <string name="button_search_lookup">Lookup</string>
+    <string name="weather_temp">Temp: %1$.2f ºF</string>
+    <string name="weather_temp_main">%1$.2f ºF</string>
+    <string name="feels_like">Feels like: %1$.2f ºF</string>
+</resources>
